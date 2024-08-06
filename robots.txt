@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://stextrut.github.io/sitemap.html.gz
+Sitemap: https://stextrut.github.io/app/sitemap.html.gz
+Sitemap: https://stextrut.github.io/assets/sitemap.html.gz
+Sitemap: https://stextrut.github.io/css/sitemap.html.gz
+Sitemap: https://stextrut.github.io/includes/sitemap.html.gz
+Sitemap: https://stextrut.github.io/item/sitemap.html.gz
+Sitemap: https://stextrut.github.io/src/sitemap.html.gz
